@@ -1,0 +1,17 @@
+{
+  "name": "hiringchallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.21.1",
+    "express": "4.17.1"
+  },
+  "devDependencies": {}
+}
